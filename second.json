@@ -1,8 +1,42 @@
 {
   "basics":{
-    "name":"raja",
+    "name":"sravani",
     "phone":"7646935745",
     "photo":"images.png",
     "email":"nagammas77@gmail.com"
-   }
+  },
+  "education":[{
+    "couse":"B.Tech(Computer seience and Engineering)",
+    "college":"Gudlavalleru Engineering college",
+    "data":["2015-2019","70%","JNTU-K"]
+  },
+  {
+    "couse":"Inter(MPC)",
+    "college":"Sri Chaitanya Junoir college",
+    "data":["2013-2015","80%"]
+  },
+  {
+    "couse":"SSC",
+    "School":"Viswasanthi",
+    "data":["2013","85%"]
+  }],
+  "skills" :[
+    {
+      "name":"Languages Known",
+      "info":["c","python","Java","Javascript"]
+    },
+    {
+      "name":"Opreating System",
+      "info":["windows","Linux","Unix","Fedora"]
+    },
+    {
+      "name":"Libraries",
+      "info":["Bootstrap","Jquert"]
+    },
+    {
+      "name":"Databases",
+      "info":["pl/sql","Mysql","oracle"]
+    }
+
+  ]
 }
